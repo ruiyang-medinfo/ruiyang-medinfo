@@ -1,5 +1,5 @@
 
-👋 Hi! I’m Rui Yang, a Senior Research Assistant at Duke-NUS Medical School. 
+👋 Hi! I’m Rui Yang, a senior research assistant at Duke-NUS Medical School. 
 
 👀 Currently, I am applying for the Fall 2025 PhD program.
 
