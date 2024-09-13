@@ -5,7 +5,7 @@
 
 🌱 My research interests include Clinical NLP, Knowledge Graph, and Health Equity.
 
-🤔 I am willing to collaborate with researchers from various fields (clinicians, social science researchers, etc.)
+🤔 I am willing to collaborate with researchers from various fields (clinicians, social science researchers...).
 
 💬 If you have any interest, please feel free to reach out!
 
