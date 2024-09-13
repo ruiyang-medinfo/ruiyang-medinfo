@@ -1,9 +1,17 @@
-## Hi there 👋
+# 👋 Hi!
+
+👀 I’m Rui Yang, a Senior Research Assistant at Duke-NUS Medical School. Currently, I am applying for the Fall 2025 PhD program.
+
+🌱 My research interests include Clinical NLP, Knowledge Graph, and Medical LLMs for Low-Resource Languages.
+
+🤔 I would love to collaborate with researchers from different fields, as it allows me to learn from various perspectives. If you have any interest, please feel free to reach out.
+
+📫 How to reach me: yang.rui@duke-nus.edu.sg
 
 <!--
 **ruiyang-medinfo/ruiyang-medinfo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
